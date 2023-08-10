@@ -1,4 +1,5 @@
 # Simple Whatsapp Bot
+![image](https://telegra.ph/file/ed20ba073f1727da48d6b.jpg)
 
 Bot whatsapp yang dibuat menggunakan nodejs dengan berbagai fitur menarik & berguna untuk menjaga grup.
 
