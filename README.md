@@ -1,6 +1,5 @@
 # Simple Whatsapp Bot
 ![image](https://telegra.ph/file/ed20ba073f1727da48d6b.jpg)
-
 Bot whatsapp yang dibuat menggunakan nodejs dengan berbagai fitur menarik & berguna untuk menjaga grup.
 
 ### Kebutuhan Sebelum Menginstall
@@ -21,8 +20,8 @@ npm start
 
 ### Settings
 - Ubah semua informasi di config.js
-- Jangan lupa isi apikey (apikey bisa didapatkan di [api.xyroinee.xyz](https://api.xyroinee.xyz).)
-- Jika ada error saat penginstallan, gunakan yarn
+- Jangan lupa isi apikey (apikey bisa didapatkan di [api.xyroinee.xyz](https://api.xyroinee.xyz)).
+- Jika ada error saat penginstallan, gunakan yarn.
 
 ## Whatsapp Suki Bot
 Source code ini hanya hasil recode dari [Xyroinee](https://github.com/Xyroinee/Clara-MD), bila masih ada error pastikan semua terpenuhi, seperti apikey dll.
